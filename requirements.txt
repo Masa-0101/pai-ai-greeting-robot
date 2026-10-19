@@ -1,0 +1,5 @@
+# Python dependencies for the language-classification component.
+# ROS 2 Humble, rclpy, trajectory_msgs, Gazebo and CRANE+ V2 are provided separately.
+sentence-transformers==3.4.1
+transformers==4.49.0
+huggingface-hub>=0.20,<1.0
